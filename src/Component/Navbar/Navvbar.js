@@ -25,7 +25,7 @@ const Navvbar = () => {
                     </Nav>
                     <Nav>
                         <Link className='me-2 my-1 ' to='/'><Button>Home</Button></Link>
-                        <Link className='me-2 my-1 ' to='/'><Button>About Me</Button></Link>
+                        <Link className='me-2 my-1 ' to='/about'><Button>About Me</Button></Link>
                         <Link className='me-2 my-1 ' to='/blog'><Button>Blog</Button></Link>
                         <Link className='me-2 my-1 ' to='/contact'><Button>Connect us</Button></Link>
                         <Link className='me-2 my-1 ' to='/resume'><Button>My Resume</Button></Link>
